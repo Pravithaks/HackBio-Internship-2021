@@ -22,6 +22,7 @@ HackBio is a practice-oriented, virtually structured research internship aimed a
 **STAGE 4**: Submit all results in their raw form, as well as all codes, designs, and the final manuscript draught.
 
 **BIOSTACKS**
+
 While registering for the internship, each intern is expected to select one BIOSTACK. It can be adjusted till the first stage is finished.
 They include:
 ● genomics
@@ -40,4 +41,8 @@ They include:
 - R Cloud 
 - Unix Environment (Putty for Windows)
 
+Contributor
 
+Pravitha K Sivanandan
+pravithaksivanandan@gmail.com
+https://www.linkedin.com/in/pravitha-k-sivanandan-7b2643165/
